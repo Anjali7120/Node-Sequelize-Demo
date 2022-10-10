@@ -1,0 +1,8 @@
+{
+    "DATABASE": "wedmegood_symfony",
+    "USERNAME": "wedmegood",
+    "PASSWORD": "nLnumYETEjvBwpwF",
+    "PORT": 8080,
+    "HOST": "localhost",
+    "DIALECT": "mysql"
+  }
